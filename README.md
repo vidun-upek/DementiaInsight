@@ -109,7 +109,7 @@ python src/predict.py
 
 The script will prompt you for the 8 non-medical features.
 
-### 4. Add folders data/raw   models   report/figures
+### 4. Add folders data/raw,   models,   report/figures
 
 ### The following are some report figures
 1. Pr_curve_Comaprison
