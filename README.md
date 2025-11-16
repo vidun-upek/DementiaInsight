@@ -95,13 +95,15 @@ DimensiaRiskAi/
     pip install -r requirements.txt
     ```
 
-### 2. Run the Full Pipeline
+### 2. Add folders data/raw,   models,   report/figures
+
+### 3. Run the Full Pipeline
 
 This will run all steps: data preprocessing, model training, and evaluation. Figures will be saved to `report/figures/`.
 
 python src/main.py
 
-### 3. Run a Live Prediction
+### 4. Run a Live Prediction
 After running the main pipeline, you can use the predict.py script to get a new prediction from the command line.
 
 
@@ -109,7 +111,7 @@ python src/predict.py
 
 The script will prompt you for the 8 non-medical features.
 
-### 4. Add folders data/raw,   models,   report/figures
+
 
 ### The following are some report figures
 1. Pr_curve_Comaprison
