@@ -2,7 +2,7 @@
 
 # 🧠 MODE-LX: Dementia Risk Prediction
 
-[cite_start]This project is a submission for the MODE-LX hackathon[cite: 1, 15]. The goal is to build a binary classification model that predicts a person's risk of dementia using **only non-medical variables**.
+This project is a submission for the MODE-LX hackathon. The goal is to build a binary classification model that predicts a person's risk of dementia using **only non-medical variables**.
 
 This solution is built as a reproducible pipeline that automates data preprocessing, model training, and evaluation, and includes a script to run live predictions from user input.
 
@@ -99,7 +99,7 @@ DimensiaRiskAi/
 
 This will run all steps: data preprocessing, model training, and evaluation. Figures will be saved to `report/figures/`.
 
-```bash
+Bash
 python src/main.py
 
 ### 3. Run a Live Prediction
