@@ -114,10 +114,10 @@ Bash
 python src/predict.py
 
 The script will prompt you for the 8 non-medical features.
-
+```
 ### RESULT IMAGES
 Pr_curve_Comaprison
-<img width="1000" height="800" alt="pr_curve_comparison 1" src="https://github.com/user-attachments/assets/cd87898f-e52b-4430-9a12-c3b1d77eea84" />
+<img width="1000" height="800" alt="pr_curve_comparison" src="https://github.com/user-attachments/assets/239d4e73-37b6-4f89-a7a7-7581040b7574" />
 
 
 
