@@ -115,9 +115,18 @@ python src/predict.py
 
 The script will prompt you for the 8 non-medical features.
 ```
-### RESULT IMAGES
-Pr_curve_Comaprison
+### The following are some report figures
+1. Pr_curve_Comaprison
 <img width="1000" height="800" alt="pr_curve_comparison" src="https://github.com/user-attachments/assets/239d4e73-37b6-4f89-a7a7-7581040b7574" />
+2. Model_comparison
+<img width="1000" height="600" alt="model_comparison" src="https://github.com/user-attachments/assets/bfbf65d4-47a3-45c3-a475-502224afbeb1" />
+3. Feature_importance
+<img width="1200" height="1000" alt="feature_importance" src="https://github.com/user-attachments/assets/8e6c79b1-9656-4dc2-89ac-e4585f06b5fa" />
+4. Roc_curve_comparison
+<img width="1000" height="800" alt="roc_curve_comparison" src="https://github.com/user-attachments/assets/49d681d7-ffb6-4d3d-a627-37a74fa3adb8" />
+
+
+
 
 
 
