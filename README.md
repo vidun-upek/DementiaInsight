@@ -109,6 +109,8 @@ python src/predict.py
 
 The script will prompt you for the 8 non-medical features.
 
+### 4. Add folders data/raw   models   report/figures
+
 ### The following are some report figures
 1. Pr_curve_Comaprison
 <img width="1000" height="800" alt="pr_curve_comparison" src="https://github.com/user-attachments/assets/239d4e73-37b6-4f89-a7a7-7581040b7574" />
