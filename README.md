@@ -99,13 +99,12 @@ DimensiaRiskAi/
 
 This will run all steps: data preprocessing, model training, and evaluation. Figures will be saved to `report/figures/`.
 
-Bash
 python src/main.py
 
 ### 3. Run a Live Prediction
 After running the main pipeline, you can use the predict.py script to get a new prediction from the command line.
 
-Bash
+
 python src/predict.py
 
 The script will prompt you for the 8 non-medical features.
