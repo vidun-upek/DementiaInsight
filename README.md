@@ -95,7 +95,7 @@ DimensiaRiskAi/
     pip install -r requirements.txt
     ```
 
-### 2. Add folders data/raw,   models,   report/figures
+### 2. Add folders data/raw(ADD THE CSV FILE HERE),   data/processed,   models,   report/figures
 
 ### 3. Run the Full Pipeline
 
