@@ -13,19 +13,14 @@ This solution is built as a reproducible pipeline that automates data preprocess
 * **Test Set ROC AUC:** `0.734`
 * **Top Predictors:** `NACCAGE` (Age), `EDUC` (Years of Education), and `SMOKYRS` (Total Years Smoked) were identified as the most important predictive features.
 
-## 📊 Visualizations
+## The Following are the outcomes of our Demensia Prediction Model.
+Sample 1
+![WhatsApp Image 2025-11-16 at 18 45 58_884452f1](https://github.com/user-attachments/assets/2a587919-3e90-421b-b478-f5ba05622c1e)
 
-### Model Performance Comparison
-LightGBM was selected as the best model as it outperformed both Random Forest and Logistic Regression on both ROC AUC and PR AUC.
-![Model Performance Comparison](report/figures/model_comparison.png)
+Sample 2
+![WhatsApp Image 2025-11-16 at 18 47 05_20aa55a1](https://github.com/user-attachments/assets/9b760cda-d5c3-4c66-8a68-bb0452a00fbb)
 
-### Precision-Recall (PR) Curve
-PR AUC is the most important metric for this imbalanced dataset. The final model (LightGBM) achieved a score of 0.560, well above the "No Skill" baseline.
-![PR Curve](report/figures/pr_curve_comparison.png)
 
-### Top 15 Most Important Features
-The model's decisions are driven by logical, non-medical factors, with Age and Education being the most significant.
-![Feature Importance](report/figures/feature_importance.png)
 
 ---
 
