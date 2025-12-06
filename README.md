@@ -1,6 +1,6 @@
 # DementiaInsight
 
-## 🧠 MODE-LX: Dementia Risk Prediction
+## 🧠 MODELX: Dementia Risk Prediction
 
 This project is a submission for the MODE-LX hackathon. The goal is to build a binary classification model that predicts a person's risk of dementia using **only non-medical variables**.
 
